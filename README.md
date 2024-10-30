@@ -23,7 +23,12 @@
 
 
 # Day 2
+** PRJECT MANAGEMENT
+
 1. *JIRA*
+2. *AGILE*
+3. *SCRUM*
+4. *EPIC*
 
 
 
