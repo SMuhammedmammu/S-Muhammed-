@@ -16,6 +16,14 @@
 
 ## Project management
 
+1* Agile 
+
+2* Scrum 
+
+3* jir
+
+
+
 
 # DAY 3
 
@@ -25,7 +33,9 @@
 
 2* Neural plasticity 
 
-3* 
+3* Preceptron 
+
+4* 
 
 
 
